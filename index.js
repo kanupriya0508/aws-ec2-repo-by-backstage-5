@@ -1,0 +1,1 @@
+console.log('Hello from demo-ec2-backstage!');
